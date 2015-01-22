@@ -1,0 +1,9 @@
+﻿Build started 09/12/2014 17:21:32.
+     1>Project "G:\NeuralNetwork\NeuralNetwork\NeuralNetwork.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\NeuralNetwork.lastbuildstate".
+     1>Done Building Project "G:\NeuralNetwork\NeuralNetwork\NeuralNetwork.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.27
